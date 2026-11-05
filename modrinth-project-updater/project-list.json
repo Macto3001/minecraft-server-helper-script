@@ -1,0 +1,10 @@
+{
+	"minecraft_version": "26.3",
+	"projects": {
+		"sodium": {
+			"name": "sodium",
+			"loader": "fabric",
+			"version": "9.3"
+		}
+	}
+}

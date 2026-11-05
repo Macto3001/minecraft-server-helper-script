@@ -1,0 +1,8 @@
+[X] serverjar auto updater
+[X] serverjar Downloader
+[X] eula acceptor
+[X] auto backup maker
+[ ] online to offline uuid transformer
+[ ] super start script
+[ ] plugin auto updater
+[X] plugin downloader
