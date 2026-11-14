@@ -1,10 +1,15 @@
 {
-	"minecraft_version": "26.3",
-	"projects": {
-		"sodium": {
-			"name": "sodium",
-			"loader": "fabric",
-			"version": "9.3"
-		}
-	}
+  "minecraft_version": "26.3",
+  "projects": {
+    "sodium": {
+      "id": "sodium",
+      "loader": "fabric",
+      "version": "0.9.4"
+    },
+    "voicechat": {
+      "id": "simple-voice-chat",
+      "loader": "fabric",
+      "version": "2.6.27+26.3"
+    }
+  }
 }
